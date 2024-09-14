@@ -1,0 +1,8 @@
+# colors for severity 
+['#fee5d9','#fcae91','#fb6a4a','#de2d26','#a50f15']
+https://colorbrewer2.org/?type=sequential&scheme=Reds&n=5
+
+
+# colors for consequences 
+['#d7191c','#fdae61','#ffffbf','#abd9e9','#2c7bb6']
+https://colorbrewer2.org/?type=diverging&scheme=RdYlBu&n=5
